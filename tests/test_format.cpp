@@ -242,3 +242,4 @@ TEST(format_a_table_row)
 {
     CHECK_EQ(format("|{:<8}|{:>6.2f}|{:^5}|", "widget", 3.14159, 'x'), "|widget  |  3.14|  x  |");
 }
+
