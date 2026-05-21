@@ -167,4 +167,3 @@ TEST(expected_is_usable_in_constexpr)
     static_assert(e.value_or(1) == 5);
     CHECK(e.has_value());
 }
-

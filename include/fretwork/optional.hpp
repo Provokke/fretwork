@@ -162,4 +162,3 @@ constexpr std::optional<T> flatten(std::optional<std::optional<T>> nested)
 }
 
 }
-

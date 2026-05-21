@@ -124,4 +124,3 @@ TEST(optional_chain_works_in_constexpr)
     static_assert(*r == 3);
     CHECK_EQ(*r, 3);
 }
-

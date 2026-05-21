@@ -245,4 +245,3 @@ Expected<std::vector<T>, E> collect(const std::vector<Expected<T, E>>& items)
 }
 
 }
-
